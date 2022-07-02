@@ -98,7 +98,7 @@ img {
       -ms-flex-align: center;
           align-items: center;
 }
-@media (max-width: 1530px) {
+@media (max-width: 1540px) {
   .header__container {
     padding: 20px 60px 55px 60px;
   }
@@ -178,7 +178,7 @@ img {
       -ms-flex-align: center;
           align-items: center;
 }
-@media (max-width: 1350px) {
+@media (max-width: 1450px) {
   .header__right {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -219,7 +219,7 @@ img {
   content: url("../img/icons/header/phone-icon.svg");
   margin-right: 8px;
 }
-@media (max-width: 1350px) {
+@media (max-width: 1450px) {
   .header__phone {
     margin-right: 0;
     margin-bottom: 15px;
